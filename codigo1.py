@@ -16,6 +16,3 @@ elif operator == "/":
     print(round(result, 3))
 else:
     print("You need to write an operator!")  
-
-
-

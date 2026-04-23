@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Simple Calculator (Python)
 
 A simple command-line calculator built in Python.
@@ -37,3 +38,7 @@ A simple CLI application in Python to collect, validate, and analyze numerical i
 # python-number-analyzer
 A simple CLI application in Python to collect, validate, and analyze numerical inputs. Includes features like average, min/max, sorting, and separation of valid/invalid values.,
 >>>>>>> 49e67388ee6584afe8ae3b60de8531b5fca2eed1
+=======
+# python-cli-number-analyzer
+A simple CLI application in Python to collect, validate, and analyze numerical inputs. Includes features like average, min/max, sorting, and separation of valid/invalid values.
+>>>>>>> a7e530f08a73a096f7d0904a9a82c1cdd57763b9

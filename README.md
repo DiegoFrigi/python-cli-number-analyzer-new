@@ -1,44 +1,96 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Simple Calculator (Python)
+# 📊 Python CLI Number Analyzer
 
-A simple command-line calculator built in Python.
+A simple command-line application built in Python to collect, validate, and analyze user input values.
 
-## Features
-- Input validation using try/except
-- Supports basic operations (+, -, *, /)
-- Prevents division by zero
-- Continuous execution until user quits
+This project was developed as part of my learning journey in Python, focusing on functions, input validation, and list manipulation.
 
-## How to run
+---
+
+## 🚀 Features
+
+* Add multiple values (numbers or text)
+* Separate valid and invalid inputs
+* Calculate average of valid numbers
+* Find minimum and maximum values
+* Sort valid numbers
+* Calculate the sum of valid values
+* Interactive menu system (CLI)
+
+---
+
+## 🧠 Concepts Practiced
+
+* Functions and modular code
+* Input validation
+* `try` / `except` (error handling)
+* Lists and loops
+* Separation of concerns
+* DRY (Don't Repeat Yourself)
+
+---
+
+## 📷 Example
+
+```
+=====MENU=====
+1. Enter values
+2. Get average
+3. Largest value
+4. Smallest value
+5. Valid values
+6. Invalid values
+7. Sum of values
+8. Show sorted values
+```
+
+---
+
+## ▶️ How to Run
 
 1. Clone the repository:
-git clone <your-repo-link>
 
-2. Run the program:
+```
+git clone https://github.com/your-username/python-cli-number-analyzer.git
+```
+
+2. Navigate to the folder:
+
+```
+cd python-cli-number-analyzer
+```
+
+3. Run the program:
+
+```
 python main.py
+```
 
-## Example
+---
 
-Enter first number (q to quit): 10  
-Enter second number: 5  
-Enter an operator (+, -, *, /): *  
-Result: 50
+## 📁 Project Structure
 
-## What I learned
-- Functions and code organization
-- Input validation
-- Error handling (try/except)
-=======
-# python-cli-number-analyzer
-A simple CLI application in Python to collect, validate, and analyze numerical inputs. Includes features like average, min/max, sorting, and separation of valid/invalid values.
->>>>>>> 25220dff8bebfdfd9719f1fe0efaca33e21216e2
-=======
-# python-number-analyzer
-A simple CLI application in Python to collect, validate, and analyze numerical inputs. Includes features like average, min/max, sorting, and separation of valid/invalid values.,
->>>>>>> 49e67388ee6584afe8ae3b60de8531b5fca2eed1
-=======
-# python-cli-number-analyzer
-A simple CLI application in Python to collect, validate, and analyze numerical inputs. Includes features like average, min/max, sorting, and separation of valid/invalid values.
->>>>>>> a7e530f08a73a096f7d0904a9a82c1cdd57763b9
+```
+main.py
+README.md
+```
+
+---
+
+## 🎯 Future Improvements
+
+* Add reverse sorting option
+* Implement filtering (e.g., values greater than X)
+* Save/load values from a file
+* Improve user interface
+
+---
+
+## 📌 Notes
+
+This is a beginner-friendly project, but it demonstrates important programming concepts used in real-world applications.
+
+---
+
+## 👤 Author
+
+Diego Frigi
